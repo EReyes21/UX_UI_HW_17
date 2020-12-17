@@ -1,0 +1,71 @@
+body {
+    background-color: #ffffff;
+}
+
+.inline-block {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 36px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding-left: 50%;
+    text-align: center;
+}
+
+.nav {
+    width: 70%;
+    padding: 1%;
+}
+
+.ul {
+    width: 50%;
+    margin-left:auto;
+}
+
+.heroImg {
+    background-color: #e3b6d6;
+    display: flex;
+    justify-content: center;
+    height: 600%;
+    padding: 100px;
+}
+
+.content {
+    width: 500px;
+    margin: 0auto;
+}
+
+.content h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+}
+
+.content p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    padding-bottom: 25px
+}
+
+.content button{
+    border-style: none;
+    border-radius: 5px;
+    background-color: #000000;
+    font-family:  'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px;
+    width: 205px;
+    height: 75px;
+}
+
+footer {
+    padding: 1%;
+}
+footer ul {
+    display: inline-block;
+    vertical-align:top;
+    padding: 3%;
+}
